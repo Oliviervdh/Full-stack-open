@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d80102f5-7e4b-4def-b687-c333537a319d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/part1/src/components/content/conent.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part1/src/components/header/header.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part1/src/components/total/total.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/part1/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/part1/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/part1/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/src/serviceWorker.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/src/components/content/parts/part1.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/src/components/content/parts/part2.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/src/components/content/parts/part3.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part1" beforeDir="false" afterPath="$PROJECT_DIR$/part1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part1/src/components/content/conent.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/part1/src/components/content/conent.component.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +59,7 @@
       <updated>1571833948284</updated>
       <workItem from="1571833952461" duration="237000" />
       <workItem from="1571834205054" duration="88000" />
-      <workItem from="1571834398133" duration="5528000" />
+      <workItem from="1571834398133" duration="7252000" />
     </task>
     <servers />
   </component>
