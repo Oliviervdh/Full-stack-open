@@ -35,7 +35,7 @@ const App = () => {
     return (
         <div>
             <Header course={course}/>
-            <Content part1={partsName[0]} part2={partsName[1]} part3={partsName[2]} exercises1={partsExercises[0]} exercises2={partsExercises[1]} exercises3={partsExercises[2]}/>
+            <Content parts={parts} />
             <Total exercises1={partsExercises[0]} exercises2={partsExercises[1]} exercises3={partsExercises[2]}/>
 
         </div>
